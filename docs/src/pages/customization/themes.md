@@ -45,7 +45,7 @@ We use a **limited set of type sizes** that work well together along with the la
 Those sizes are used across our components.
 
 Have a look at the following example regarding changing the default values, like the font family.
-If you want to learn more about color, you can check out [the typography section](/style/typography).
+If you want to learn more about typography, you can check out [the typography section](/style/typography).
 
 {{demo='pages/customization/TypographyTheme.js'}}
 
